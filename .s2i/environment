@@ -1,1 +1,1 @@
-MAVEN_MIRROR_URL=http://nexus-cicd.apps.cloudapps.igalvan.com/content/groups/public/
+MAVEN_MIRROR_URL=http://nexus-cicd.apps.cloud.igalvan.com/content/groups/public/
